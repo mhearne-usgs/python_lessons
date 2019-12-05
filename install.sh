@@ -84,6 +84,13 @@ package_list=(
       "libcomcat"
       "jupyter"
       "ipython"
+	  "mayavi"
+      "ipyevents"
+	  "ipywidgets"
+      "matplotlib"
+	  "numpy"
+	  "scipy"
+	  "pandas"		
 )
 
 # Create a conda virtual environment
